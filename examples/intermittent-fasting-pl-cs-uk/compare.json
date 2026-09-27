@@ -1,0 +1,524 @@
+{
+  "topic": "intermittent fasting",
+  "date_range": "2024-09-01 to 2026-08-31",
+  "requested_range": "2024-09-25 to 2026-09-25",
+  "access": "all-access",
+  "resolve": {
+    "topic": "intermittent fasting",
+    "source_lang": "en",
+    "qid": "Q1666254",
+    "label": "intermittent fasting",
+    "description": "a diet that cycles between a period of fasting and non-fasting",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1666254",
+    "ambiguous": false,
+    "candidates": [
+      {
+        "qid": "Q1666254",
+        "label": "intermittent fasting",
+        "description": "a diet that cycles between a period of fasting and non-fasting"
+      },
+      {
+        "qid": "Q112575736",
+        "label": "Intermittent Fasting Can Make Us Healthier",
+        "description": "Article published in Scientific European on 15 January 2019"
+      },
+      {
+        "qid": "Q63574657",
+        "label": "Intermittent Fasting Versus Daily Caloric Restriction for Weight Loss",
+        "description": "clinical trial"
+      }
+    ],
+    "languages": {
+      "pl": {
+        "lang": "pl",
+        "project": "pl.wikipedia",
+        "title": null,
+        "url": null,
+        "found": false
+      },
+      "cs": {
+        "lang": "cs",
+        "project": "cs.wikipedia",
+        "title": "Přerušovaný půst",
+        "url": "https://cs.wikipedia.org/wiki/P%C5%99eru%C5%A1ovan%C3%BD_p%C5%AFst",
+        "found": true
+      },
+      "uk": {
+        "lang": "uk",
+        "project": "uk.wikipedia",
+        "title": "Інтервальне голодування",
+        "url": "https://uk.wikipedia.org/wiki/%D0%86%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5_%D0%B3%D0%BE%D0%BB%D0%BE%D0%B4%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F",
+        "found": true
+      }
+    },
+    "warnings": [
+      "No pl.wikipedia article is linked to this concept yet."
+    ]
+  },
+  "results": [
+    {
+      "label": "cs.wikipedia: Přerušovaný půst",
+      "project": "cs.wikipedia",
+      "article": "Přerušovaný půst",
+      "granularity": "monthly",
+      "access": "all-access",
+      "data_range": "2024-09-01 to 2026-08-31",
+      "dates": [
+        "2024-09-01",
+        "2024-10-01",
+        "2024-11-01",
+        "2024-12-01",
+        "2025-01-01",
+        "2025-02-01",
+        "2025-03-01",
+        "2025-04-01",
+        "2025-05-01",
+        "2025-06-01",
+        "2025-07-01",
+        "2025-08-01",
+        "2025-09-01",
+        "2025-10-01",
+        "2025-11-01",
+        "2025-12-01",
+        "2026-01-01",
+        "2026-02-01",
+        "2026-03-01",
+        "2026-04-01",
+        "2026-05-01",
+        "2026-06-01",
+        "2026-07-01",
+        "2026-08-01"
+      ],
+      "views": [
+        393,
+        634,
+        329,
+        294,
+        489,
+        272,
+        366,
+        958,
+        225,
+        238,
+        157,
+        386,
+        270,
+        141,
+        151,
+        218,
+        474,
+        196,
+        179,
+        135,
+        109,
+        115,
+        91,
+        119
+      ],
+      "trend": {
+        "n_points": 24,
+        "avg_views": 289.125,
+        "median_views": 231.5,
+        "median_daily_views": 7.605749486652978,
+        "pct_change_per_year": -53.6795220825109,
+        "pct_change_ci": [
+          -64.26078700883868,
+          -41.74591133674893
+        ],
+        "r_squared": 0.5527660741620135,
+        "direction": "declining",
+        "confidence": "low",
+        "confidence_reasons": [
+          "Median traffic (~8 views/day) is low; random noise can dominate any apparent trend at this volume.",
+          "6 unusually spiky data point(s) detected; the trend line uses a spike-resistant estimator, but a manual look at those dates is still worthwhile."
+        ],
+        "anomalies": [
+          {
+            "date": "2024-10-01",
+            "views": 634,
+            "expected": 329.0,
+            "kind": "spike"
+          },
+          {
+            "date": "2025-01-01",
+            "views": 489,
+            "expected": 311.5,
+            "kind": "spike"
+          },
+          {
+            "date": "2025-04-01",
+            "views": 958,
+            "expected": 255.0,
+            "kind": "spike"
+          },
+          {
+            "date": "2025-07-01",
+            "views": 157,
+            "expected": 254.0,
+            "kind": "dip"
+          },
+          {
+            "date": "2025-09-01",
+            "views": 270,
+            "expected": 154.0,
+            "kind": "spike"
+          },
+          {
+            "date": "2026-01-01",
+            "views": 474,
+            "expected": 187.5,
+            "kind": "spike"
+          }
+        ],
+        "fit_line": [
+          484.364364490043,
+          454.63384884759057,
+          425.82417497800185,
+          399.6794809313077,
+          374.34456518467664,
+          350.6115731362517,
+          330.4678270945572,
+          309.50915595761603,
+          290.4892237299546,
+          272.0583949111575,
+          255.3324721299525,
+          239.1246005178513,
+          223.94155069290596,
+          210.16297776751327,
+          196.8111678916668,
+          184.69443981783303,
+          172.95300255613995,
+          161.95397497082445,
+          152.61837927635355,
+          142.905107493495,
+          134.0903420051813,
+          125.54859580712332,
+          117.79698633095771,
+          110.28546706709884
+        ]
+      },
+      "recurring_spike_months": [
+        {
+          "month": 1,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      ],
+      "share_per_million": [
+        6.308916430118421,
+        8.944506475991986,
+        4.778353391040544,
+        4.178465323875619,
+        5.863548323750029,
+        3.8994729632909344,
+        4.887305805374183,
+        14.296329726250953,
+        3.0558130398713383,
+        4.229499164389579,
+        2.5670435331832313,
+        6.711277653571811,
+        4.711511202560186,
+        2.1188261444692906,
+        2.0718006527132493,
+        3.635313549212148,
+        7.031597685803294,
+        3.361552249575634,
+        3.0840697425673573,
+        2.468531570955389,
+        1.8229595229398552,
+        2.1421929965004947,
+        1.71274564136819,
+        2.3121265988404005
+      ],
+      "share_trend": {
+        "n_points": 24,
+        "avg_views": 4.424739974508921,
+        "median_views": 3.767393256251541,
+        "median_daily_views": 7.605749486652978,
+        "pct_change_per_year": -38.198289740090566,
+        "pct_change_ci": [
+          -49.42464776026176,
+          -23.70513296404183
+        ],
+        "r_squared": 0.41878647360019006,
+        "direction": "declining",
+        "confidence": "low",
+        "confidence_reasons": [
+          "Median traffic (~8 views/day) is low; random noise can dominate any apparent trend at this volume."
+        ],
+        "anomalies": [
+          {
+            "date": "2025-04-01",
+            "views": 14.296,
+            "expected": 4.064486063840256,
+            "kind": "spike"
+          }
+        ],
+        "fit_line": [
+          6.552686329611589,
+          6.259975657254486,
+          5.969420543137945,
+          5.699314823915493,
+          5.431198197212987,
+          5.173812000025108,
+          4.950199616082858,
+          4.712063703500343,
+          4.490687899682976,
+          4.270942335153907,
+          4.066662558721332,
+          3.8638871242791737,
+          3.669227066840448,
+          3.4882672686340355,
+          3.308640081162629,
+          3.1416551330181277,
+          2.975899883053486,
+          2.816778406787625,
+          2.6785366011547986,
+          2.531316049407853,
+          2.3944569439164747,
+          2.258605686107118,
+          2.132315698717142,
+          2.0069557266929428
+        ]
+      },
+      "cross_check_notes": [],
+      "warnings": [
+        "Requested end date adjusted to 2026-08-31: Wikimedia has not yet published pageview data for the requested end of the range (the current, still-in-progress month)."
+      ]
+    },
+    {
+      "label": "uk.wikipedia: Інтервальне голодування",
+      "project": "uk.wikipedia",
+      "article": "Інтервальне голодування",
+      "granularity": "monthly",
+      "access": "all-access",
+      "data_range": "2024-09-01 to 2026-08-31",
+      "dates": [
+        "2024-09-01",
+        "2024-10-01",
+        "2024-11-01",
+        "2024-12-01",
+        "2025-01-01",
+        "2025-02-01",
+        "2025-03-01",
+        "2025-04-01",
+        "2025-05-01",
+        "2025-06-01",
+        "2025-07-01",
+        "2025-08-01",
+        "2025-09-01",
+        "2025-10-01",
+        "2025-11-01",
+        "2025-12-01",
+        "2026-01-01",
+        "2026-02-01",
+        "2026-03-01",
+        "2026-04-01",
+        "2026-05-01",
+        "2026-06-01",
+        "2026-07-01",
+        "2026-08-01"
+      ],
+      "views": [
+        740,
+        812,
+        856,
+        705,
+        1668,
+        791,
+        1287,
+        818,
+        510,
+        203,
+        207,
+        192,
+        199,
+        163,
+        158,
+        167,
+        194,
+        129,
+        223,
+        260,
+        225,
+        143,
+        129,
+        107
+      ],
+      "trend": {
+        "n_points": 24,
+        "avg_views": 453.5833333333333,
+        "median_views": 215.0,
+        "median_daily_views": 7.063655030800821,
+        "pct_change_per_year": -65.19910357516743,
+        "pct_change_ci": [
+          -77.81530487341652,
+          -49.838011139117356
+        ],
+        "r_squared": 0.7100356461356895,
+        "direction": "declining",
+        "confidence": "low",
+        "confidence_reasons": [
+          "Median traffic (~7 views/day) is low; random noise can dominate any apparent trend at this volume."
+        ],
+        "anomalies": [
+          {
+            "date": "2025-01-01",
+            "views": 1668,
+            "expected": 823.5,
+            "kind": "spike"
+          }
+        ],
+        "fit_line": [
+          591.6497396705179,
+          542.4334761739993,
+          495.8663907431298,
+          454.604401455877,
+          415.56343321327483,
+          379.86790499813833,
+          350.2633032346537,
+          320.1633757042046,
+          293.49254423994506,
+          268.2573313433722,
+          245.8970080685619,
+          224.74028038902995,
+          205.3964832492702,
+          188.25640366364797,
+          172.03892810474017,
+          157.66900787919067,
+          144.07258151038923,
+          131.6412396938465,
+          121.33112685152014,
+          110.84851161946676,
+          101.56011503193523,
+          92.77168765694827,
+          84.98447072371653,
+          77.61641857111535
+        ]
+      },
+      "recurring_spike_months": [],
+      "share_per_million": [
+        9.931648116070367,
+        9.781451534642287,
+        10.210525286198877,
+        8.349966644548138,
+        17.72359938379253,
+        9.652016378214956,
+        16.166461037321536,
+        11.337981942891556,
+        7.386989596496991,
+        3.7835950624345376,
+        3.327467238995318,
+        3.1067047753628345,
+        3.248623913927073,
+        2.468026863397378,
+        2.3533727741729553,
+        3.009152363943248,
+        3.2080975822585986,
+        2.499305038203718,
+        4.046099699597963,
+        4.8702563702953325,
+        4.021443624266549,
+        2.95992665011978,
+        2.434006030334847,
+        2.109601361643185
+      ],
+      "share_trend": {
+        "n_points": 24,
+        "avg_views": 6.166096636213773,
+        "median_views": 3.9025193433505434,
+        "median_daily_views": 7.063655030800821,
+        "pct_change_per_year": -51.570661674460496,
+        "pct_change_ci": [
+          -64.23401060195053,
+          -32.53668151151358
+        ],
+        "r_squared": 0.6313196559739731,
+        "direction": "declining",
+        "confidence": "low",
+        "confidence_reasons": [
+          "Median traffic (~7 views/day) is low; random noise can dominate any apparent trend at this volume."
+        ],
+        "anomalies": [
+          {
+            "date": "2025-01-01",
+            "views": 17.724,
+            "expected": 9.931270832206916,
+            "kind": "spike"
+          }
+        ],
+        "fit_line": [
+          8.808542598922527,
+          8.241462535917016,
+          7.689900546458405,
+          7.187494679358578,
+          6.698837084689158,
+          6.239344241165178,
+          5.8479361889982755,
+          5.43922801175794,
+          5.066944587407448,
+          4.704848651449241,
+          4.37502330787005,
+          4.054223592721823,
+          3.752570298220462,
+          3.477800847308454,
+          3.210550427351434,
+          2.9671178095543067,
+          2.730346694273546,
+          2.507706886335431,
+          2.3180564602449034,
+          2.120023539023191,
+          1.9396396412887493,
+          1.7641919258931562,
+          1.604380402857408,
+          1.4489421017525606
+        ]
+      },
+      "cross_check_notes": [],
+      "warnings": [
+        "Requested end date adjusted to 2026-08-31: Wikimedia has not yet published pageview data for the requested end of the range (the current, still-in-progress month)."
+      ]
+    }
+  ],
+  "ranking_by_growth": [
+    "cs.wikipedia: Přerušovaný půst",
+    "uk.wikipedia: Інтервальне голодування"
+  ],
+  "ranking_by_share_growth": [
+    "cs.wikipedia: Přerušovaný půst",
+    "uk.wikipedia: Інтервальне голодування"
+  ],
+  "share_ranking": [
+    {
+      "rank": 1,
+      "label": "cs.wikipedia: Přerušovaný půst",
+      "share_pct_change_per_year": -38.198289740090566,
+      "share_confidence": "low",
+      "median_daily_views": 7.605749486652978
+    },
+    {
+      "rank": 2,
+      "label": "uk.wikipedia: Інтервальне голодування",
+      "share_pct_change_per_year": -51.570661674460496,
+      "share_confidence": "low",
+      "median_daily_views": 7.063655030800821
+    }
+  ],
+  "before_you_write": [
+    "Quote only numbers from this output, and name the confidence tier of every trend you mention.",
+    "Don't state causes (users moved to other platforms, market saturated, ...): the data shows that interest changed, not why. Label any cause as a hypothesis to test.",
+    "To rank editions ('which audience next'), follow share_ranking (share of edition traffic), not raw views or your own judgement; say which ranks have low confidence.",
+    "Daily views, largest first: cs.wikipedia: Přerušovaný půst ~8, uk.wikipedia: Інтервальне голодування ~7. Use this order when you compare audience size.",
+    "No pl.wikipedia article is linked to this concept yet. That's a fact about Wikipedia's coverage, not evidence of demand or a market gap; don't recommend writing Wikipedia content.",
+    "cs.wikipedia: Přerušovaný půst: spikes recur (month 1 in 2025/2026) -- a seasonal pattern worth reporting.",
+    "Call a spike seasonal only if it's listed in recurring_spike_months.",
+    "If the user asked about an activity (learning X) and the article is the general topic (X), say it's a proxy. Recommendations are about the user's product, not Wikipedia, and stay within the articles and editions analysed here."
+  ],
+  "chart_path": "chart.png",
+  "warnings": [
+    "No pl.wikipedia article is linked to this concept yet.",
+    "Requested end date adjusted to 2026-08-31: Wikimedia has not yet published pageview data for the requested end of the range (the current, still-in-progress month)."
+  ]
+}
