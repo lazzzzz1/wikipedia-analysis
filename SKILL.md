@@ -1,5 +1,5 @@
 ---
-name: wikipedia-trends
+name: wikipedia-analysis
 description: Analyzes Wikipedia pageview trends (via the Wikimedia Pageviews API) to help B2C product teams decide what content/topics to build next and which languages to localize into. Compares interest in a topic across language editions, fits a spike-resistant trend with an explicit confidence tier, normalizes for each edition's traffic size, generates charts, and assembles a one-page shareable PDF report. Use when the user asks things like "is interest in X growing", "compare interest in X across languages/editions", "which language should we localize into next", or wants a report on Wikipedia pageview trends for a topic.
 license: MIT
 compatibility: Requires Python 3.11+ and uv (https://docs.astral.sh/uv/), plus network access to wikimedia.org, wikipedia.org and wikidata.org. No GPU or system packages needed.
