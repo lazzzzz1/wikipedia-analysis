@@ -1,4 +1,4 @@
-# wikipedia-trends
+# wikipedia-analysis
 
 An Agent Skill and CLI tool for analyzing Wikipedia article pageviews via the
 [Wikimedia Pageviews API](https://wikimedia.org/api/rest_v1/). It shows whether
